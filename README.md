@@ -1,6 +1,9 @@
-13 Quantidade de vértices
-16 Número de arestas
-1 2 2 Lista de arestas
+Quantidade de vértices
+13
+Número de arestas
+16 
+Lista de arestas
+1 2 2 
 1 3 7
 1 4 2
 3 7 3
@@ -16,8 +19,13 @@
 11 12 4
 7 13 6
 13 12 5
-1 Vértice de entrada
-11 Vértice de saída
-8 Posição inicial do minotauro
-3 Valor da percepção
-15 Tempo máximo
+Vértice de entrada
+1 
+Vértice de saída
+11 
+Posição inicial do minotauro
+8 
+Valor da percepção
+3 
+Tempo máximo
+15
